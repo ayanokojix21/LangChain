@@ -1,0 +1,2 @@
+HumanMessage(content="Hi i am Nishchal an student in IIIT Lucknow with as huge interest in ML and AI")
+AIMessage(content="Hello Nishchal, nice to hear you have great interest in me ;)")

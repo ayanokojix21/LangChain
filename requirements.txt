@@ -1,6 +1,12 @@
 # LangChain Core
 langchain 
 langchain-core
+langchain-community
+pypdf
+requests 
+beautifulsoup4
+html2text 
+lxml
 
 # Groq/OpenAI-Compatible API Integration
 langchain-groq
@@ -34,3 +40,10 @@ streamlit
 
 # Visualization
 grandalf
+
+# Vector Stores
+langchain-chroma
+langchain-pinecone
+
+# Retriever
+wikipedia
